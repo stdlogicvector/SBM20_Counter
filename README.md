@@ -52,3 +52,5 @@ Send Questions to @stdlogicvector@chaos.social
 | 1       | KJL-5020  | BUZZER-5020       | BEEP              |                             | C556937  |
 | 1       | AO3404A   | SOT23             | T6                |                             | C30010   |
 | 1       |           | SWITCH-SPDT-SMD-A | PWR               |                             | C319019  |
+
+The SMB20 tube is available from several ebay sellers.
