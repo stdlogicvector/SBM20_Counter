@@ -1,8 +1,8 @@
 # SBM20 Counter
 
-With this PCB and an SBM20 tube you can build a small, battery operated geiger counter. It can be supplied by two AA batteries, for example. Depending on the battery type you can populate the Step-Up (<5V) [A2] or the Step-Down (>5V) [A4].
+With this PCB and an SBM20 tube you can build a small, battery operated geiger counter. It can be supplied by two AA batteries, for example. Depending on the battery type you can populate the Step-Up (<5V) or the Step-Down (>5V).
 The left part of the PCB generates the approx. 400V for the tube, the right part amplifies and shapes the pulses for the LED and buzzer.
-The buzzer [D1/D2] is optional if the LED is sufficient feedback.
+The buzzer is optional if the LED is sufficient feedback.
 
 ![image](https://github.com/stdlogicvector/SBM20_Counter/assets/8276483/a56da398-fcd1-4b7e-9c3d-6d336f2a8b5b)
 
