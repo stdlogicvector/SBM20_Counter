@@ -6,6 +6,9 @@ The buzzer is optional if the LED is sufficient feedback.
 
 ![image](https://github.com/stdlogicvector/SBM20_Counter/assets/8276483/a56da398-fcd1-4b7e-9c3d-6d336f2a8b5b)
 
+## Acknowledgements
+The circuit is bodged together from multiple sources on the internet, mainly from [MightyOhm](https://mightyohm.com/files/geiger/geiger_sch_fixedR5R6.png).
+
 
 ## Contact
 Send Questions to @stdlogicvector@chaos.social 
